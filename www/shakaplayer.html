@@ -84,5 +84,13 @@ function onError(error) {
 }
 
 document.addEventListener('DOMContentLoaded', initApp);
+    
+document.addEventListener("keydown", keyDownTextField, false);
+
+function keyDownTextField(e) {
+var keyCode = e.key;
+   window.parent.postMessage(keyCode, '*');
+}
+
   </script>
 </html>
