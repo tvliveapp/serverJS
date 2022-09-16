@@ -51,13 +51,17 @@ async function initPlayer() {
     var url = url_string.searchParams.get("url");
     console.log(url);
   try {
+     ck = '{"":""}';
+    if(url_string.searchParams.get("ck")!=null)
      ck = window.atob(url_string.searchParams.get("ck"));
     console.log(ck);
   } catch{
     ck = '{"":""}';
   }
   try {
-    license = window.atob(url_string.searchParams.get("l"));
+    license = '';
+    if(url_string.searchParams.get("l")!=null)
+      license = window.atob(url_string.searchParams.get("l"));
     console.log(license);
   
   } catch {
