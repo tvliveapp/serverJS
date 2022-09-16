@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/xTelefe.png.pagespeed.ic._nLOBgxlv-.png" ,Telefe
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd?&ck=eyJhMzJjMDgyMDlkNDQ4Y2ZmY2YyZjNjMzIxNmQxMjk1MyI6ICJjMDA4OTRjZDI2NGZhYjNjNjA1YzY0NmQ2MWM5ZmI4MCJ9
+#EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/xEl_Trece.png.pagespeed.ic.051z3s_0MW.png" ,elltrece (Canal 13)
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd?&ck=eyIyNzk2NWE1ZTQ3NTE1YzUyYWY5NzBkZWY4MjMwMTQyYyI6ICJiMmYxNjNiOTMwMjhhNGMzMjVjMGQ4ZjdmMWIyOWUyNSJ9
+#EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/A24.png,q.pagespeed.ce.Cu5pGlXVJy.png" ,America 24 (A24)
+//edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd?&ck=eyIzYjFiMDI3ZGQwMTFhZjIwZmQ5OTU2YzE2ZGMwODRmYiI6ICI0NWY3NWFhY2YwNjU5M2M5YjY5M2ZlNDI3YzY3ZTViOCJ9
+#EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/TV_Pública.png" ,TV Púbica
+//edge-live16-sl.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd?&ck=eyJhMzA5NjMxMjNmNWZmYzMyZDczM2JjMGQyNjQ0NWM2YSI6ICIyNjUxNTc0ZTc3OGM5MTE2MDMwNzI1NjQxNWFkNjY2NiJ9
+#EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/xCronica_TV.png.pagespeed.ic.tnWi7K2Ru-.png" ,Cronica TV
+//edge-live16-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd?&ck=eyJhMzA5NjMxMjNmNWZmYzMyZDczM2JjMGQyNjQ0NWM2YSI6ICIyNjUxNTc0ZTc3OGM5MTE2MDMwNzI1NjQxNWFkNjY2NiJ9
+#EXTINF:0 group-title="peliculas" tvg-logo="/img/logo_canal/xSpace.png.pagespeed.ic.xCYWpPQgFN.png" ,Space
+//edge-live16-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd?&ck=eyIwOTQyZTRlY2QxYmQzNTY3ZThmOTQ0N2Y0NWMyMGExMiI6ICJlZmNhNjI2NGYwNGNmNzM3M2RlMGMzMGVjNzlmZTkwOSJ9
+#EXTINF:0 group-title="peliculas" tvg-logo="/img/logo_canal/TNT.png.pagespeed.ce.ix2ZxVN4NY.png" ,TNT
+https://edge-live16-sl.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd?&ck=eyJmYWFkMTcyMmE1NzVmNGQ5ZWM3Yjc3NGRiNjNjODc5YyI6ICJjZjAxODQ4MzAzNDRiYTM2YWQyZmZlZjlkZDJkZDlkMCJ9
+#EXTINF:0 group-title="peliculas" tvg-logo="/img/logo_canal/TNT_Series.png.pagespeed.ce.JJORGQYDCI.png" ,TNT Series
+//edge-live16-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd?&ck=eyI1YzE0ZDZhZWIxOWJmMTEzZWRmOTFhN2I1NDQyNTNjYiI6ICI4ZDc3NmQ2ZjljNWM4NDBlYmU4OGQ3NjdkZDczMTY5MiJ9
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Cartoon Network
+//edge-live16-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd?&ck=eyJkN2RmNTZlZmFhMzZhNzExNDFkMjM4ODU0Y2M0NmQxZCI6ICI4YWJiMmVlOTE1MGQ4YjJhZjhlYmVjMGRlMGY4MzNjOCJ9
+#EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/xAmerica_TV.png.pagespeed.ic.Rk0Zz3l2wX.png" ,America TV
+//router.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/xCanal_26.png.pagespeed.ic.RzGkDbGC2s.png" ,Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+#EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/xCanal_9.png.pagespeed.ic.wQUFc6s5ZN.png" ,elnueve (Canal 9)
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ef5d1d15-b27e-4986-85c2-fc34ef4fff0b/3.m3u8
+#EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/C5N.png.pagespeed.ce.qlp2pbumsv.png" ,C5N (Canal 5 Noticias)
+//edge-live16-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
+#EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/xTN.png.pagespeed.ic.dGEup8nY2-.png" ,TN (Todo Noticia)
+https://www.youtube.com/embed/live_stream?channel=UCj6PcyLvpnIRT_2W_mwa9Aw&autoplay=1
+#EXTINF:0 group-title="deportes" tvg-logo="/img/logo_canal/xTyC_Sports.png.pagespeed.ic.igdlQTHEqS.png" ,TyC Sports
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:0 group-title="mendoza" tvg-logo="/img/logo_canal/El_Siete.png.pagespeed.ce.jg0fTXDzt0.png" ,El Siete (Mendoza)
+https://www.youtube.com/watch?v=-mnusASJf5A
+#EXTINF:0 group-title="santafe" tvg-logo="/img/logo_canal/eltres.png.pagespeed.ce.ihJgjMOdH-.png" ,Canal 3 (Rosario)
+https://stream-01.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Lsy3JgjDN55PC8o25Yts0ZOBPx9mYtKy7xOjjG8BC4ZS9)/dm/3/x8aobf1/s/live-2.m3u8
+#EXTINF:0 group-title="documentales" tvg-logo="/img/logo_canal/xEncuentro.png.pagespeed.ic.JxEB2FUgio.png" ,Encuentro
+//5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+#EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/xRural.png.pagespeed.ic.al8NY1eotw.png" ,Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/xTLX.png.pagespeed.ic.LjMys9SnCt.png" ,Telemax (TLX HD)
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal Net
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Telpin Canal 2: Pinamar
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="reality" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Food Network
+//edge-live16-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
+#EXTINF:0 group-title="reality" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,El Gourmet
+//edge-live16-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Ciudad Magazine
+https://g2.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal CM (El canal de la música)
+//edge-live16-sl.cvattv.com.ar//live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,PakaPaka
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+#EXTINF:0 group-title="fox" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,FOX
+NoUrl
+#EXTINF:0 group-title="star" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Star Channel (Ex FOX)
+NoUrl
+#EXTINF:0 group-title="hbo" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,HBO
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,MTV
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,I-Sat
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TCM
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Cinemax
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,AMC
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,AXN
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Warner TV
+https://clearnet.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Universal TV
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Sony Channel
+NoUrl
+#EXTINF:0 group-title="reality" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TruTV (Latinoamérica)
+NoUrl
+#EXTINF:0 group-title="reality" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Glitz
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Cinecanal
+NoUrl
+#EXTINF:0 group-title="fox" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,FX
+NoUrl
+#EXTINF:0 group-title="fox" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,FXM
+NoUrl
+#EXTINF:0 group-title="fox" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Fox Life
+NoUrl
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Comedy Central
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Paramount Network
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TBS
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,CINEAR
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,WOW TV: El Salvador
+NoUrl
+#EXTINF:0 group-title="retro" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Cachipum TV
+NoUrl
+#EXTINF:0 group-title="pluto" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=6dfcb40e-ad3e-4ac7-95e1-cf33643f31f4&deviceVersion=4.0&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&deviceType=web&deviceMake=Android%2BBrowser&sid=1f7aa479-f440-11ea-a685-0242ac110002&advertisingId=&deviceLat=-32.8833&deviceLon=-68.8167&deviceDNT=0&deviceModel=Android%2BBrowser&userId=&appName=web
+#EXTINF:0 group-title="pluto" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Pluto TV accion
+#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6dfcb40e-ad3e-4ac7-95e1-cf33643f31f4&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1f7aa479-f440-11ea-a685-0242ac110002&userId=&serverSideAds=true?txeff
+#EXTINF:0 group-title="pluto" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Pluto TV comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true?gxwc
+#EXTINF:0 group-title="pluto" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Pluto TV cine estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true?qioep
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Quiero música en mi idioma
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,MuchMusic
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,VH1 Latino
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Tierra Mía TV
+https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Retro Music TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?pmfxk
+#EXTINF:0 group-title="mexico" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Golden Edge
+NoUrl
+#EXTINF:0 group-title="provincia" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Nueva Imagen Televisión
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Boomerang
+https://router.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Disney Channel
+https://router.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Disney XD
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Disney Junior
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Tooncast
+https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Nick
+https://router.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="https://televisionlibre.net/img/logo_canal/xCartoon_Network.png.pagespeed.ic.VBzbeyronB.webp" ,Cartoon Network
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Nick Jr.
+https://router.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Discovery Kids
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,NatGeo Kids
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,BabyFirst
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true?vfduq
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Baby TV
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Pequeradio TV
+NoUrl
+#EXTINF:0 group-title="series" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Los Simpsons TV
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,La Granja de Zenón (24/7)
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Bob Esponja (24/7)
+NoUrl
+#EXTINF:0 group-title="infantiles" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Tom y Jerry (24/7)
+NoUrl
+#EXTINF:0 group-title="series" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,El Chavo del 8
+NoUrl
+#EXTINF:0 group-title="series" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Padre de Familia TV
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,DeporTV
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TNT Sports
+https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd?&ck=eyJjNDY5N2JmNDU4ZGE1MmY4Yjk2YjM2Y2NlNzYxZDU3MSI6ImE0ZGVlNzc2MTUyNzljODU4YjE5ZTViYjY5YWI2NzU1In0=
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TUDN
+https://dcs-live-ue1.mp.lura.live/server/play/AzX9XeTnwbXQSyX7/manifest.mpd?anvsid=m177618713-ne8ee5e2a0de2bf43dce58683ddd9110d?&l=aHR0cHM6Ly9kcm0zLm1wLmx1cmEubGl2ZS9jZW5jP2VxcD0yX0lpWDM2OHdJcmlaLVlRLUlXcEJ5VWE2NVAyTGFJNlQ2TGw4d2xHNWhleXFqSVIwSXFMWG1CdVFfZkNMMzgtallpWVZjajNFR1kyUUpVZVljWDJSN0ZLeFhlaFlBR3FqMHg1d0hkdVQ0MTFUNVhZSDM4ZE83VDZ2OGZJLTYtZXJURlJkbURxZHkzTkJ6aDF2Rnlpdjh0QnI4TnladnViUThnNTBDa3lfRkNCd3pLS2RGc0p1U0JVRlBSWXZYUTZLWERzMml3a0hDZmhiV0FOb3J6SjN1MFg2Q3F3dDFtSnhQM19yOE44WmRYUTVHZ1BfRW1DN2UxZURERTBoaFptTGY2QS01ZFltcXNLREdRajRNdG82ckxsZ2cxM3RzQVBRTHpWX1ZqX1VFR3VBTzRiX3hXX0s4c2lWUnBJYkw3SCZhbnZhdXRoPXRiPTB+dGU9MTY2MzAyNDAxOH5zZ249M2Y2ODAwMzBjZDExNmU4OGU0YWRmMmFmZTRlOGY5N2QwNmVhYTY5YmMyOWU3ZDkyYThhM2QyM2JhNGE5N2RiMiZ0PTE2NjMwMTMyMTg=
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Fox Sports Premium
+NoUrlhttps://1125-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI0Y2I0OWRmMzQxNDIzY2I1OTdiZjNlNzliNzhmMmE1MiI6IjExYWQ2OWQyYzg0ZjQxZGJiNTIwYWJmZTM4YjE5ZmU3In0=
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Fox Sports 1
+https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2YwOTdkMmIwMDQxYyI6IjhjZWQ4NDZjOWVmZmQ1NmQ3ZTJhOTI3NjIyNGJiM2M1In0=
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Fox Sports 2 mx
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Fox Sports 3
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,ESPN 1
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,ESPN 2
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,ESPN 3
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,ESPN Extra
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,NBA TV
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,DirecTV Sports
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd?&ck=eyJhN2UwOWM2ZjQ3YWY1N2U5OTliNzg5ZWI1NGQzMjU1ZCI6IjI2M2Y2ZGIxMmQ2ZjlhYTcyZjJjYzliMGVmMmUyNmIyIn0=
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,DirecTV Sports 2
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,DirecTV Sports+
+NoUrl
+#EXTINF:0 group-title="cultura" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Film & Arts
+NoUrl
+#EXTINF:0 group-title="reality" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,E! Entertainment
+NoUrl
+#EXTINF:0 group-title="colombia" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Trece
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TVG2
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,24h (24 Horas) de TVE
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,La 1 de TVE
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,La 2 de TVE
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Telecinco
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Cuatro
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Atrescine (A3Cine)
+NoUrl
+#EXTINF:0 group-title="españa" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Antena 3
+NoUrl
+#EXTINF:0 group-title="mexico" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Pasiones
+NoUrl
+#EXTINF:0 group-title="mexico" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Las Estrellas
+NoUrl
+#EXTINF:0 group-title="peliculas" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Syfy
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,DW (Español)
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,CGTN (Español)
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Telemundo
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Univision
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Eurochannel
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Euronews
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,CNN (Español)
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,RT en Español
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,HispanTV
+NoUrl
+#EXTINF:0 group-title="internacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Telesur
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,France 24
+NoUrl
+#EXTINF:0 group-title="uruguay" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal UCL - Uruguay
+NoUrl
+#EXTINF:0 group-title="uruguay" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Teledoce
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,El Garage TV
+NoUrl
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Volver
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,National Geographic (NATGEO)
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,NatGeo Wild
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Discovery Channel
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Investigation Discovery (Discovery ID)
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Discovery Turbo
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Discovery Home & Health
+NoUrl
+#EXTINF:0 group-title="reality" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Discovery TLC
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Nasa TV
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,A&E
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,History Channel
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,History Channel 2
+NoUrl
+#EXTINF:0 group-title="documentales" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Animal Planet
+NoUrl
+#EXTINF:0 group-title="deportes" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,America Sports (AM Sports)
+NoUrl
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,KZO Entertainment
+NoUrl
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 13 San Luis (Canaltrece)
+NoUrl
+#EXTINF:0 group-title="general" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 13 Max HD
+NoUrl
+#EXTINF:0 group-title="chaco" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 9 (Resistencia): Imagen del nordeste
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Multivisión Federal
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,La Nación + (LN +)
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,IP Noticias: Información Periodística
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Vorterix
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,BVC: Bahia Blanca Color
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,88 Stereo
+NoUrl
+#EXTINF:0 group-title="musica" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,K-POP TV
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal de la Ciudad
+NoUrl
+#EXTINF:0 group-title="santafe" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,5RTV (Santa Fe)
+NoUrl
+#EXTINF:0 group-title="salta" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Milenium TV: Canal 17 de Salta
+NoUrl
+#EXTINF:0 group-title="salta" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TVdos: Canal 2 de Salta
+NoUrl
+#EXTINF:0 group-title="salta" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 7 de Salta
+NoUrl
+#EXTINF:0 group-title="salta" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 10 de Salta
+NoUrl
+#EXTINF:0 group-title="rio_negro" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 10 de General Roca
+NoUrl
+#EXTINF:0 group-title="san_juan" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 5: Telesol de San Juan
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 5 Tigre
+NoUrl
+#EXTINF:0 group-title="cordoba" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,El Doce de Córdoba
+NoUrl
+#EXTINF:0 group-title="cordoba" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 10 Córdoba
+NoUrl
+#EXTINF:0 group-title="misiones" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Doce Misiones (Canal 12 de Posadas)
+NoUrl
+#EXTINF:0 group-title="misiones" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 2 Misiones
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,8 Digital Valle de Uco
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Cultura y Noticias 23 (CN 23)
+NoUrl
+#EXTINF:0 group-title="noticias" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal de Noticias 24/7 (CN 24/7)
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 5 Telecreativa (Lanús)
+NoUrl
+#EXTINF:0 group-title="jujuy" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 4 de Jujuy
+NoUrl
+#EXTINF:0 group-title="jujuy" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 7 de Jujuy
+NoUrl
+#EXTINF:0 group-title="santiago" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 7 de Santiago del Estero
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TV Pública Fueguina - TDF
+NoUrl
+#EXTINF:0 group-title="comodoro_rivadavia" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 9 de Comodoro Rivadavia
+NoUrl
+#EXTINF:0 group-title="cordoba" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Telediario  Television - Canal 13: Río Cuarto
+NoUrl
+#EXTINF:0 group-title="cordoba" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 13 de La Rioja
+NoUrl
+#EXTINF:0 group-title="universitario" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,UTN TV
+NoUrl
+#EXTINF:0 group-title="universitario" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Litus TV
+NoUrl
+#EXTINF:0 group-title="universitario" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal Universidad de Mar del Plata
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,GenTV CABA
+NoUrl
+#EXTINF:0 group-title="parana" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 9 (Litoral)
+NoUrl
+#EXTINF:0 group-title="mdp" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Diez MDP - Canal 10 (Mar Del Plata)
+NoUrl
+#EXTINF:0 group-title="mdp" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,XFN Canal 41 (Mar Del Plata)
+NoUrl
+#EXTINF:0 group-title="mdp" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 79 (Mar Del Plata)
+NoUrl
+#EXTINF:0 group-title="mendoza" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Acequia TV
+NoUrl
+#EXTINF:0 group-title="mendoza" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 9 Televida (Mendoza)
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Orbe 21
+NoUrl
+#EXTINF:0 group-title="santafe" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TDC Firmat
+NoUrl
+#EXTINF:0 group-title="provincia" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Verte TV
+NoUrl
+#EXTINF:0 group-title="provincia" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,TeleJunín
+NoUrl
+#EXTINF:0 group-title="provincia" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Bragado TV
+NoUrl
+#EXTINF:0 group-title="paraguay" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Telefuturo
+NoUrl
+#EXTINF:0 group-title="paraguay" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Canal 9 Noticias (C9N)
+NoUrl
+#EXTINF:0 group-title="paraguay" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Gen Paraguay
+NoUrl
+#EXTINF:0 group-title="paraguay" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,ABC TV: Paraguay
+NoUrl
+#EXTINF:0 group-title="nacional" tvg-logo="/pagespeed_static/1.JiBnMqyl6S.gif" ,Bayres TV
+NoUrl
