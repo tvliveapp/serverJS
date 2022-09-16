@@ -204,7 +204,7 @@ function ChangeColor(e){
 	localStorage.setItem("ultimoCanal",chN);
 		 	//console.log(canales.segments[chN].url);
 		 	vid=document.getElementById('myVideo');
-		 	vidUrl="/player/player.html/#"+canales.segments[chN-1].url;
+		 	vidUrl="shakaplayer.html#"+canales.segments[chN-1].url;
 		 	vid.src=vidUrl;
 		 	vid.contentWindow.location.reload();
 		 	console.log(vid.src);
