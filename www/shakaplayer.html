@@ -41,8 +41,21 @@ function initApp() {
 }
 
 async function initPlayer() {
+  var url = window.location.href.split("#")[1];
+  try {
+     ck = window.atob(window.location.href.split("&ck=")[1]);
+  } catch{
+    ck = '{"":""}';
+  }
+  try {
+    license = window.atob(window.location.href.split("&l=")[1]);    
+  } catch {
+    license = '';
+  }
+  
   // Create a Player instance.
   const video = document.getElementById('video');
+  
   const player = new shaka.Player(video);
 
   // Attach player to the window to make it easy to access in the JS console.
@@ -53,11 +66,16 @@ async function initPlayer() {
 
   player.configure({
   drm: {
-      clearKeys: {
+              servers: {
+                    'com.widevine.alpha': license,
+                    'org.w3.clearkey': 'https://cdn4.xaxa.live/keys2/vtvplus.json'
+                },
+                clearKeys: JSON.parse(ck)
+     // clearKeys: {
         // 'key-id-in-hex': 'key-in-hex',
-        'a30963123f5ffc32d733bc0d26445c6a': '2651574e778c91160307256415ad6666',
-        '02030507011013017019023029031037': '03050701302303204201080425098033'
-      }
+        //'a30963123f5ffc32d733bc0d26445c6a': '2651574e778c91160307256415ad6666',
+       // '02030507011013017019023029031037': '03050701302303204201080425098033'
+      //}
     }
   });
 
