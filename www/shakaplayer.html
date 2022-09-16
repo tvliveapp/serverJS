@@ -57,6 +57,11 @@ async function initPlayer() {
     license = '';
   }
   
+    var url_string =document.location.href; 
+    var url = new URL(url_string);
+    var c = url.searchParams.get("ck");
+    console.log(c);
+  
   // Create a Player instance.
   const video = document.getElementById('video');
   
