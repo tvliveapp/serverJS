@@ -59,13 +59,13 @@ async function initPlayer() {
   }
   */
     var url_string =document.location.href; 
-    var url = new URL(url_string);
-    var ck = url.searchParams.get("ck");
-    console.log(c);
-    var url = url.searchParams.get("url");
+    //var url = new URL(url_string);
+    var ck = url_string.searchParams.get("ck");
+    console.log(ck);
+    var url = url_string.searchParams.get("url");
     console.log(url);
-    var license = url.searchParams.get("l");
-    console.log(c);
+    var license = url_string.searchParams.get("l");
+    console.log(license);
   
   
   // Create a Player instance.
