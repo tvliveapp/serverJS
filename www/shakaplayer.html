@@ -44,31 +44,18 @@ function initApp() {
 }
 
 async function initPlayer() {
-  
-  
-    var url_string =document.location.href; 
-    url_string = new URL(url_string);
-    var url = url_string.searchParams.get("url");
-    console.log(url);
+  var url = window.location.href.split("#")[1];
+  //  manifestUri =url;
   try {
-     ck = '{"":""}';
-    if(url_string.searchParams.get("ck")!=null)
-     ck = window.atob(url_string.searchParams.get("ck"));
-    console.log(ck);
+     ck = window.atob(window.location.href.split("&ck=")[1]);
   } catch{
     ck = '{"":""}';
   }
   try {
-    license = '';
-    if(url_string.searchParams.get("l")!=null)
-      license = window.atob(url_string.searchParams.get("l"));
-    console.log(license);
-  
+    license = window.atob(window.location.href.split("&l=")[1]);    
   } catch {
     license = '';
   }
-  
-    
   
   // Create a Player instance.
   const video = document.getElementById('video');
