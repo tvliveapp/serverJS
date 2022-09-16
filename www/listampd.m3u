@@ -3,6 +3,12 @@
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd?&ck=eyJhMzJjMDgyMDlkNDQ4Y2ZmY2YyZjNjMzIxNmQxMjk1MyI6ICJjMDA4OTRjZDI2NGZhYjNjNjA1YzY0NmQ2MWM5ZmI4MCJ9
 #EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/xEl_Trece.png.pagespeed.ic.051z3s_0MW.png" ,elltrece (Canal 13)
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd?&ck=eyIyNzk2NWE1ZTQ3NTE1YzUyYWY5NzBkZWY4MjMwMTQyYyI6ICJiMmYxNjNiOTMwMjhhNGMzMjVjMGQ4ZjdmMWIyOWUyNSJ9
+#EXTINF:0 group-title="deportes" tvg-logo="" ,Gol tv ec
+https://1134-vos.dtvott.com/DASH/manifest.mpd?&ck=eyAiMzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjciOiAiYTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDciIH0=
+#EXTINF:0 group-title="deportes" tvg-logo="" ,Directv ec
+https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd?&ck=eyAiZTliYzZhMWM2NGUwNWMzNWFhNzJlMTJiMTZkMzUyNDciOiAiMDdjMTczNWFkYWMxNWRlODc3ZGYzZjgxYjRmYzQ3MzEifQ
+#EXTINF:0 group-title="deportes" tvg-logo="" ,Directv 1
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd?&ck=eyJhN2UwOWM2ZjQ3YWY1N2U5OTliNzg5ZWI1NGQzMjU1ZCI6IjI2M2Y2ZGIxMmQ2ZjlhYTcyZjJjYzliMGVmMmUyNmIyIn0=
 #EXTINF:0 group-title="noticias" tvg-logo="/img/logo_canal/A24.png,q.pagespeed.ce.Cu5pGlXVJy.png" ,America 24 (A24)
 //edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd?&ck=eyIzYjFiMDI3ZGQwMTFhZjIwZmQ5OTU2YzE2ZGMwODRmYiI6ICI0NWY3NWFhY2YwNjU5M2M5YjY5M2ZlNDI3YzY3ZTViOCJ9
 #EXTINF:0 group-title="general" tvg-logo="/img/logo_canal/TV_Pública.png" ,TV Púbica
