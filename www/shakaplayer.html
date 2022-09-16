@@ -44,6 +44,7 @@ function initApp() {
 }
 
 async function initPlayer() {
+  /*
   var url = window.location.href.split("#")[1];
   //  manifestUri =url;
   try {
@@ -56,11 +57,16 @@ async function initPlayer() {
   } catch {
     license = '';
   }
-  
+  */
     var url_string =document.location.href; 
     var url = new URL(url_string);
-    var c = url.searchParams.get("ck");
+    var ck = url.searchParams.get("ck");
     console.log(c);
+    var url = url.searchParams.get("url");
+    console.log(url);
+    var license = url.searchParams.get("l");
+    console.log(c);
+  
   
   // Create a Player instance.
   const video = document.getElementById('video');
