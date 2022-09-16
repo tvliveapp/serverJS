@@ -59,7 +59,7 @@ async function initPlayer() {
   }
   */
     var url_string =document.location.href; 
-    //var url = new URL(url_string);
+    url_string = new URL(url_string);
     var ck = url_string.searchParams.get("ck");
     console.log(ck);
     var url = url_string.searchParams.get("url");
